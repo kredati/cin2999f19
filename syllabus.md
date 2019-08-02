@@ -65,6 +65,9 @@ In-class visits:
 * SGS visit to discuss student support & mental health
 * Brian Price to discuss departmentally available funding
 
+Homework due:
+* Select and upload a term paper from year 1 of the PhD to work with this term.
+
 #### Week 3, September 24: The career, the job, the program, the next step
 Reading due:
 * Karen Kelsky, “Where are the Jobs? Institution Types and Ranks,” from _The Professor is In_
@@ -84,9 +87,20 @@ Topics covered:
 * What does a job ad look like
 * How to ignore the market until it’s worth worrying about
 * Getting your head straight about the next milestone: the exam
+* A prompt: work on exams with your supervisor
 
-#### Week 4: Sharing your scholarship
+#### Week 4, October 1: Sharing your scholarship
+Reading due:
 * Karen Kelsky, “Publish This, Not That,” and “Applying to Conferences” from _The Professor is In_
+* Penn English CFPs
+* Browse websites/programs for: SCMS, MLA, ACLA, ASAP, SLSA, ASA, &c.
+* Browse websites for a few journals in our “film and media studies” journals list: _JCMS_, _Film Quarterly_, _Camera Obscura_, _Discourse_, _Screen_, _CJFS_, &c.
+
+Homework due:
+* Journal report. _Write a brief blurb about one of our journals on the wiki that seems like it might be an appropriate home for your revision-project paper._
+* Conference report. _Write a brief blurb about one of the conferences on the wiki that seems like it might be an appropriate home for your revision-project paper._
+
+Topics covered:
 * Publishing
   - Types of publications
   - How to submit
@@ -99,56 +113,122 @@ Topics covered:
   - Types of conferences
   - How to locate conferences
   - How to fund conference travel
-* Homework: journal & conference reports
 
-#### Week 5: Forming young minds: pedagogy
+#### Week 5, October 8: Forming young minds: pedagogy
 Reading due:
-* Jacques Rancière, from _The Ignorant Schoolmaster_ (or something else)
-* CSI Undergraduate Course Schedule
-* Sample CSI syllabi (Scott’s and others’)
-*
+* Jacques Rancière, from _The Ignorant Schoolmaster_ (or something else: Eve Segwick, “Pedagogy of Buddhism”?)
+* CSI Undergraduate Course Bulletin
+* Sample CSI syllabi (Scott’s and maybe others’)
 
-* Homework:
+Homework due:
+* Write a “course proposal” for a 200– or 300-level undergrad CSI course.
 
 Topics covered:
-* What vs. how
+* What vs. how, as approaches to pedagogy
 * Outcomes, goals, and ideals
 * Developing a syllabus
 * Distinguishing between types of classes
 * How we ask students to read, how we ask students to write
-* On authority
+* On authority in the classroom
 * Developing your own class in fall of 3rd year
 
-#### Week 6: Writing for an audience
-* Craft of Research (first encounter)
-* Homework: Select a paper to revise, distribute papers
-* **Faculty visit**
+#### Week 6, October 15: Writing for an audience
+Reading due:
+* Booth, et al., _The Craft of Research_ (peruse the whole book)
 
-#### Week 7: Process
-* More of Craft of Research
-* Writing your dissertation in 15 minutes a day
+Homework due:
+* By now, you should have read all your colleagues’ papers-to-revise.
+* Sketch a plan for revision.
+
+In-class visit:
+* **Faculty visit** the first. A faculty member will pre-circulate a recently-published work or work-in-progress, to discuss the work & their process.
+
+Topics covered:
+* How to approach revision
+* Selecting audiences, writing for audiences
+* Developing your own writing process
+* Setting goals for revision
+
+#### Week 7, October 22: Process
+Reading due:
+* Bolker, _Writing Your Dissertation_, introduction, chs. 1–3, 5, and 8
+
+Homework due:
+* Revised plan for revision
+* Reflection on process
+
+In-class visit:
+* **Faculty visit** the second. A faculty member will pre-circulate a recently-published work or work-in-progress, to discuss the work & their process.
+
+Topics covered:
+* Thinking well about process
+* Process metacognition
 * Overview of the dissertation
-* Homework: process reflection
-* Homework: statement of goals for revision
-* **Faculty visit**
 
-#### Week 8: Theme & character
-* **Faculty visit**
-* Homework: work-up, revision of your own paragraphs
-*
+#### Week 8, October 29: Theme & character
+Reading due:
+* Booth et al., _The Craft of Research_, Part 4: “Planning, drafting, and revising”
 
-#### Week 9: Problem & structure
-* **Faculty visit**
-* Homework: structure & problem exercises
+Homework due:
+* Theme & character paragraph revision études
+* Select an essay for “journal club” in a few weeks
 
-#### Week 10: Introductions
-* **Faculty visit**
-* Homework: rewrite introductions
+In-class visit:
+* **Faculty visit** the third. A faculty member will pre-circulate a recently-published work or work-in-progress, to discuss the work & their process.
 
-#### Week 11: Exams (again), and proposing a dissertation
-* Homework: by now, have at least one exam preface and list, working with your supervisor
+Topics covered:
+* How to revise a sentence
+* How to revise a paragraph
+* How to use theme & character to comment on students’ papers
 
-#### Week 12: Presenting
+#### Week 9, November 12: Problem & structure
+Reading due:
+* Booth et al.,  _The Craft of Research_, Parts 2 & 3: “Asking Questions, Finding Answers” & “Making a Claim and Supporting It”
 
+Homework due:
+* Problem and structure études
+
+In-class visit:
+* **Faculty visit** the fourth. A faculty member will pre-circulate a recently-published work or work-in-progress, to discuss the work & their process.
+
+Topics covered:
+* Arguments and what they do
+* Problems as the driving force of academic research
+* How to discover, articulate, and rework problems
+* Writing and arguing with problems
+* Teaching questions & problems
+
+#### Week 10, November 19: Introductions
+No reading due, although do revisit Booth, "Introductions and Conclusions."
+
+Homework due:
+* Rewritten introduction.
+
+In-class visit:
+* **Faculty visit** the fifth. A faculty member will pre-circulate a recently-published work or work-in-progress, to discuss the work & their process.
+
+Topics covered:
+* What introductions do.
+* Peer review of rewritten introductions.
+* Teaching students introductions.
+
+#### Week 11, November 26: "Journals Club," and next steps
+Reading due:
+* "Journals club" essays
+* Bolker, _Writing Your Dissertation_, chs. 4 & 7
+
+Homework due:
+* Very rough draft of one exam preface & list, in consultation with your supervisor.
+* Very rough elevator pitch for a dissertation project.
+* Continue work on revisions.
+
+#### Week 12, December 3: Applying and presenting
+No reading due, although do revisit Booth, "Communicating Evidence Visually"
+
+Homework due:
+* Slide deck.
+* Conference proposal abstract.
+* Peer review of revision-in-progress papers.
 
 #### During finals period: a conference
+Mini-conference to be scheduled during finals period. _To be semi-public (CSI community invited) or not, according to consensus.
