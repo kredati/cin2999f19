@@ -45,9 +45,9 @@ Reading due:
 * Wendy Brown, “Educating Human Capital,” from _Undoing the Demos_
 * Malcolm Harris, “Go to College,” from _Kids These Days: Human Capital and the Making of Millennials_
 * Gregory Colón Semenza, “The Culture of a Graduate Program,” from _Graduate Study for the 21st Century_
+* William Zissner, “College Pressures”
 
-Homework due:
-* Email your supervisor to set up an appointment to discuss exams.
+No homework due.
 
 Topics covered:
 * Neoliberalism & higher education
@@ -68,9 +68,10 @@ In-class visits:
 Homework due:
 * Select and upload a term paper from year 1 of the PhD to work with this term.
 
-#### Week 3, September 24: The career, the job, the program, the next step
+#### Week 3, September 24: The career, the job, the program, the next steps
 Reading due:
-* Karen Kelsky, “Where are the Jobs? Institution Types and Ranks,” from _The Professor is In_
+* Bolker, _Writing Your Dissertation_, ch. 2, “Choosing and Advisor and a Committee”
+* Karen Kelsky, “Where are the Jobs? Institution Types and Ranks,” “Best Advisors, Worst Advisors,” and “A Good Advisor is Not Nice” from _The Professor is In_
 * 2018 film studies jobs wiki
 * CSI PhD Handbook
 * Reverse timeline
@@ -199,7 +200,7 @@ Topics covered:
 * Teaching questions & problems
 
 #### Week 10, November 19: Introductions
-No reading due, although do revisit Booth, "Introductions and Conclusions."
+No reading due, although do revisit Booth, “Introductions and Conclusions.”
 
 Homework due:
 * Rewritten introduction.
@@ -212,9 +213,9 @@ Topics covered:
 * Peer review of rewritten introductions.
 * Teaching students introductions.
 
-#### Week 11, November 26: "Journals Club," and next steps
+#### Week 11, November 26: “Journals Club,” and next steps
 Reading due:
-* "Journals club" essays
+* “Journals club” essays
 * Bolker, _Writing Your Dissertation_, chs. 4 & 7
 
 Homework due:
@@ -223,7 +224,7 @@ Homework due:
 * Continue work on revisions.
 
 #### Week 12, December 3: Applying and presenting
-No reading due, although do revisit Booth, "Communicating Evidence Visually"
+No reading due, although do revisit Booth, “Communicating Evidence Visually”
 
 Homework due:
 * Slide deck.
