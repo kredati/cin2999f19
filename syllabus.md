@@ -17,9 +17,11 @@ This is an impossible project for a single semester, and certainly you shouldn�
 * **Maximizing community inputs.** I have constructed this syllabus in consultation with a number of constituencies, including: my faculty colleagues in CSI; graduate students in later years of CSI’s PhD program; the students in this course; and also my academic peers at other institutions.
 * **Maximizing supervisor contact.** The more advanced you get in academia, the more bespoke everything becomes. Much of what comes next for you—exams, a dissertation, a professionalization strategy—will be absolutely specific to you, your project, your interests, your talents, your networks. And so, instead of trying to tell you how to, e.g., approach exams in a general way, I instead am going to provide opportunities for (read: force) you to have conversations with your supervisors early and often about crucial matters of advising.
 * **Minimizing busywork.** We will have a number of “homework” assignments; I have tried to ensure that each of those assignments is actionable in a direct way at some later point in the program.
+* **The accumulation of resources.** A substantial portion of what we talk about in this course isn't immediately relevant to you as second-year PhD students. Another substantial portion offers techniques for _practice_, which you might not see the value of at first, or which might feel cumbersome the first couple of times you engage them. I have devised this course, its readings, and its website not as material to be mastered this term, but rather as a durable set of resources for you that you can return to when it seems pressing, or relevant. Because of this, our course website includes a great deal of link-heavy content created & curated by Scott.
 
 ### Outcomes
 In this course, students will:
+* Select a supervisor if they have not yet done so.
 * Meet with their supervisor no fewer than three times.
 * Discuss major advising and program goals with their supervisor, including (but not limited to) exams, publishing, conferences, and possible dissertation projects.
 * Gain critical familiarity with all parts of academic life, including research (publishing, conferences, grants, writing), teaching, and service.
@@ -32,12 +34,13 @@ In this course, students will:
 ### Coursework & marks
 This course is pass/fail. To gain a passing mark, students must complete, to my satisfaction, all assignments in the course by their stated deadline. In other words: almost all of this is process-based; do the things, trust the process.
 
-Be aware that this iteration of the proseminar is substantially different from previous iterations, in that it also includes a certain amount of reading. Please do the reading carefully; I would not ask you to do it if I didn’t think it important.
+Be aware that this iteration of the proseminar is substantially different from previous iterations, in that it also includes a certain amount of reading. Please do the reading carefully, but not exactingly; I would not ask you to do it if I didn’t think it important. By the same token, some of the reading is there to be a resource to you as you develop your practice and in later stages of the program. I will do my best to guide you in the kind of reading I expect.
 
 ### Required texts
-We have two required books this term, which I have ordered into the U of T Bookstore:
+We have three required books this term, which I have ordered into the U of T Bookstore:
 * Wayne Booth, et al., _The Craft of Research_, 4th ed. (or previous edition if you already own it).
 * Joan Bolker, _Writing Your Dissertation in Fifteen Minutes a Day_.
+* Eric Hayot, _The Elements of Academic Style: Writing for the Humanities_. (NB: I ordered this late and it may not arrive to the bookstore for some time after the beginning of term; I will keep you posted.)
 
 ### Schedule
 #### Week 1, September 10: Introductions, and What is a university?
@@ -57,7 +60,8 @@ Topics covered:
 
 #### Week 2, September 17: Surviving the program
 Reading due:
-* Karen Kelsky on granting from _The Professor is In_
+* Karen Kelsky “Why You Want and Need Grants” from _The Professor is In_
+* Eric Hayot, _The Elements of Academic Style_, chs. 2 & 3
 * Alan Henry, "[Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955)"
 * Alan Henry, "[Productivity 101: A Primer to the Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)"
 
@@ -71,7 +75,7 @@ Homework due:
 #### Week 3, September 24: The career, the job, the program, the next steps
 Reading due:
 * Bolker, _Writing Your Dissertation_, ch. 2, “Choosing and Advisor and a Committee”
-* Karen Kelsky, “Where are the Jobs? Institution Types and Ranks,” “Best Advisors, Worst Advisors,” and “A Good Advisor is Not Nice” from _The Professor is In_
+* Kelsky, “Where are the Jobs? Institution Types and Ranks,” “Best Advisors, Worst Advisors,” and “A Good Advisor is Not Nice” from _The Professor is In_
 * 2018 film studies jobs wiki
 * CSI PhD Handbook
 * Reverse timeline
@@ -92,7 +96,8 @@ Topics covered:
 
 #### Week 4, October 1: Sharing your scholarship
 Reading due:
-* Karen Kelsky, “Publish This, Not That,” and “Applying to Conferences” from _The Professor is In_
+* Kelsky, “Publish This, Not That,” and “Applying to Conferences” from _The Professor is In_
+* Hayot, _Elements_, chs. 4–7
 * Penn English CFPs
 * Browse websites/programs for: SCMS, MLA, ACLA, ASAP, SLSA, ASA, &c.
 * Browse websites for a few journals in our “film and media studies” journals list: _JCMS_, _Film Quarterly_, _Camera Obscura_, _Discourse_, _Screen_, _CJFS_, &c.
@@ -153,6 +158,7 @@ Topics covered:
 #### Week 7, October 22: Process
 Reading due:
 * Bolker, _Writing Your Dissertation_, introduction, chs. 1–3, 5, and 8
+* Revisit Hayot, _Elements_, chs. 2 & 3
 
 Homework due:
 * Revised plan for revision
@@ -169,6 +175,7 @@ Topics covered:
 #### Week 8, October 29: Theme & character
 Reading due:
 * Booth et al., _The Craft of Research_, Part 4: “Planning, drafting, and revising”
+* Eric Hayot, _Elements_, ch. 8  “The Uneven U”
 
 Homework due:
 * Theme & character paragraph revision études
@@ -184,7 +191,8 @@ Topics covered:
 
 #### Week 9, November 12: Problem & structure
 Reading due:
-* Booth et al.,  _The Craft of Research_, Parts 2 & 3: “Asking Questions, Finding Answers” & “Making a Claim and Supporting It”
+* Booth et al.,  _Craft of Research_, Parts 2 & 3: “Asking Questions, Finding Answers” & “Making a Claim and Supporting It”
+* Hayot, _Elements_, ch. 9, “Structure and Subordination”
 
 Homework due:
 * Problem and structure études
@@ -200,7 +208,8 @@ Topics covered:
 * Teaching questions & problems
 
 #### Week 10, November 19: Introductions
-No reading due, although do revisit Booth, “Introductions and Conclusions.”
+* Reread Booth et al., _Craft of Research_, ch. 16, “Introductions and Conclusions”
+* Hayot, _Elements_, ch. 11, “Introductions”
 
 Homework due:
 * Rewritten introduction.
