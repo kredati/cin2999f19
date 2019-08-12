@@ -42,7 +42,7 @@ _By this point_:
 A large majority of people find that they cannot
 
 ### The PhD
-Realistically, a PhD takes six years to complete. This five-year-plan is aggressive, and also 
+Realistically, a PhD takes six years to complete. This five-year-plan is aggressive, and also
 
 Your portfolio coming out of the PhD includes:
 * A completed dissertation.
@@ -53,11 +53,15 @@ Your portfolio coming out of the PhD includes:
 * A fantasy of a research trajectory for your tenure-track experience.
 
 #### Year 5
-*
-* Defend your dissertation!
+* Apply for jobs (September through November, or January, or March).
+* Revise chapter 3.
+* Complete the last chapter of your dissertation.
+* Write a
+* Defend your dissertation! (Plan on a defense date not later than the end of June.)
 
 #### Year 4
 * Revise your first chapter in light of comments from your supervisor(y committee).
+* Revise your submitted first article and resubmit.
 * At the same time, complete two additional dissertation chapters. At slowest, write one during the year; one during the summer. The faster you do this, the better.
 * By April at the latest, you should have revised your first chapter and completed a solid draft of your second.
 * Once you have your second chapter, start strategizing with your supervisor about preparing for the job market.
