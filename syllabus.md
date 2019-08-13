@@ -251,4 +251,4 @@ Homework due:
 * Peer review of revision-in-progress papers.
 
 #### During finals period: a conference
-Mini-conference to be scheduled during finals period. _To be semi-public (CSI community invited) or not, according to consensus.
+Mini-conference to be scheduled during finals period. _To be semi-public (CSI community invited) or not, according to consensus._
