@@ -108,7 +108,7 @@ Reading due:
 * Hayot, _Elements_, chs. 4–7
 * Peruse the [Penn English CFPs](http://call-for-papers.sas.upenn.edu/)
 * Browse websites & programs for conferences in our [conference list](./conferences.md)
-* Browse websites for a few journals in [SCMS's film & media studies journals list](https://www.cmstudies.org/?page=resources_jrnls_AF)
+* Browse websites for a few journals in [SCMS's film & media studies journals list](https://www.cmstudies.org/page/resource_journals_AF)
 
 Homework due:
 * Journal report. _Post a brief blurb (following instructions) about one of the journals on the course website to the course Slack that seems like it might be an appropriate home for your revision-project paper._
