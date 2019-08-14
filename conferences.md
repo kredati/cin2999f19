@@ -28,3 +28,4 @@ A number of institutions have long-standing traditions of graduate student confe
 * University of Toronto.
 * University of California, Berkeley.
 * University of Chicago.
+* University of Pittsburgh.

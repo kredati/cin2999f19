@@ -38,7 +38,7 @@ Be aware that this iteration of the proseminar is substantially different from p
 
 ### Required texts
 We have three required books this term, which I have ordered into the U of T Bookstore:
-* Wayne Booth, et al., _The Craft of Research_, 4th ed. (or previous edition if you already own it).
+* Wayne Booth, et al., _The Craft of Research_, 4th ed. (Please do buy the current version, as we will be working with it closely).
 * Joan Bolker, _Writing Your Dissertation in Fifteen Minutes a Day_.
 * Eric Hayot, _The Elements of Academic Style: Writing for the Humanities_. (NB: I ordered this late and it may not arrive to the bookstore for some time after the beginning of term; I will keep you posted.)
 
