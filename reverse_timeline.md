@@ -9,7 +9,7 @@ It is worth noting that this is, as a general rule, a conservative and somewhat 
 In addition, this is not a comprehensive plan. I don’t address service (do the service that interests you, learn how to say no, etc.), and I don’t address teaching (get better consistently, find ways to make teaching sustaining & exciting, find ways to contain teaching to as little bandwidth as possible). I only address granting tangentially because it is so contingent on institutional factors. Also, this timeline can be delayed and/or deferred in a bunch of ways, from parental leave stopping a tenure clock for a year to changing jobs resetting the clock entirely. I don’t dwell in all the details. For where you might find holes, here are some rules of thumb.
 
 ### Conferences on the tenure track
-You should consider that attending two or more major conferences per year is normative on the tenure track; one per year is normative as a graduate student. Note that funding such conference travel may well prove difficult; do what you can given your circumstances. That said, conferences are important for a few reasons:
+You should consider that attending two or more major conferences per year is normative on the tenure track; one per year is normative for advanced (year 3+) graduate students. Note that funding such conference travel may well prove difficult; do what you can given your circumstances. That said, conferences are important for a few reasons:
 
 * **Conferences are great commitment mechanisms.** There is no deadline like having to show up in front of people with a fully-realized presentation. That said, to make this count, _every conference presentation should develop part of your tenure portfolio_. Do not say yes to things just because people you like or are impressed by are putting them together; say yes to a thing because of that _and_ you’ve figured out how to project your interests and projects into the call.
 * **Conferences give you intermediate feedback.** Depending on your institution, you may find it difficult to discover, invent, or arrange situations where you get meaningful feedback on your work. If you have a habit of going to SCMS every year, you will develop a group of people who come to, and respond to, your work.
@@ -19,9 +19,10 @@ You should consider that attending two or more major conferences per year is nor
 A normative solid tenure case at a research institution is often understood to be “a book and five articles.” That said, you may find exceptions to this:
 * Some institutions will allow for an “articles” case, if you don’t want to write a book. If you’re content to get tenure at those institutions, write lots of essays: two per year, instead of one per year.
 * A good rule of thumb for ongoing productivity with a book-and-articles case is a new essay every year. That said, that level of productivity can be difficult-to-impossible to maintain while you are also writing books. Don’t sweat yearly production goals so long as you are making progress and are generally up to snuff on the timeline below.
+* Note that to meet these standards of productivity, you will end up writing essays that are not from the book and not from the second book project. This is a good thing! They may actually lead you to your second project. Staying interested in things that aren't on the straight-and-narrow is a very good idea, and shows depth & range as a scholar. That said, they should not be totally from left field. Possibilities for this work include: unrevised seminar papers from grad school; études in which you play out a theme or problem from your book in relation to a different case; trying to develop the problems you discover, but do not solve, in the book; or, simply, new ideas that don't (yet, ever) come together as a project. Make sure some of your work reading is undirected, organized by curiosity and sense of discovery. Use your teaching and your time at conferences to learn how to become fascinated by things.
 * Some institutions (the Ivy League especially but not only) has substantially higher standards of productivity (two books!), and sometimes longer tenure tracks to match (nine years!). They will also typically match these with comparatively greater resources. And: they will demand you meet standards not only of quantity (books just count as long as they’re with “good enough” presses) but also of quality (do _we_, your colleagues, think your work is _good enough_).
 * Most institutions, however, have _lower_ standards of productivity for tenure than research-intensive institutions. This, however, does not mean you should plan for those lower standards. I understand this is deeply perverse. However, If you wish to be mobile at all during your tenure track, changing positions to an institution that is more to your liking on some dimension (atmosphere, students, program, prestige, location, teaching load, and so on), you will have to maintain the normative standard of productivity to be competitive on the job market—which is the R1 tenure case. You will be competing for any faculty position with people who hit this level of research output. Teaching loads increase as you descend the prestige scale, so this schedule may become impractical or unworkable; that does not, perversely, make it any less normative to the job market. You will have to make your own bargains with what gives when you are teaching three or four courses per semester, and/or through summers.
-* Finally, a note on standards of quality: I believe (and this really is my own full opinion, others do differ on this count) that we are at the point where the quantity of research output cannot increase for most normal human persons while maintaining the standards of quality. From my position—recently tenured, less recently on the job market, having served on a search committee in the past year, having mentored a few students into tenure-track jobs, and so on—it does not seem especially desirable or valuable to overshoot this level of productivity, especially if you’re not producing the best research you can. (A former student of mine wrote a book before he landed a tenure-track job, and the department that’s hiring him is requiring him to write a second book to get tenure. “Overproduction” can really hurt.) Once you hit this standard, you should apply yourself to increase the quality of your work—the writing, the conceptual ambition, the depth of archival work, &c.
+* Finally, a note on standards of quality: I believe (and this really is my own full opinion, others do differ on this count) that we are at the point where the quantity of research output cannot increase for most normal human persons while maintaining the standards of quality. From my position—recently tenured, less recently on the job market, having served on a search committee in the past year, having mentored a few students into tenure-track jobs, and so on—it does not seem especially desirable or valuable to overshoot this level of productivity, especially if you’re not producing the best research you can. (A former student of mine wrote a book before they landed a tenure-track job, and the department that hired them is requiring them to write a second book to get tenure. “Overproduction” can really hurt.) Once you hit this standard, you should apply yourself to increase the quality of your work—the writing, the conceptual ambition, the depth of archival work, &c.
 
 ### The tenure-track faculty timeline
 #### Year 6: The tenure case
@@ -58,7 +59,7 @@ _By this point_:
 _By this point_:
 * Mid-tenure review materials have been submitted.
 * Book contract has been signed.
-* Two essays are in press or in print (possibly one is still in revision).
+* Two essays from your time on the tenure track are in press or in print (possibly one is still in revision).
 
 #### Year 3: A book contract and mid-tenure review.
 * Draft a book proposal and related materials. These will likely include a proposal (to a press’s specifications), an introduction, and two sample chapters. This will mean (likely) writing a new introduction, and polishing chapters mostly as is. (NB: You will likely need to write yet another introduction as part of the revision process.)
@@ -69,7 +70,7 @@ _By this point_:
 
 _By this point_:
 * Two chapters from your book accepted.
-* New research, from your “unfinished business,” in hand.
+* New research, from your “[unfinished business](./on_proposals.md#plan-for-unfinished-business),” in hand.
 * New/revised framing developed and developing in writing (book proposal, new introduction, etc.).
 
 #### Year 2:
@@ -80,14 +81,14 @@ _By this point_:
 * Consider your granting needs. If you must, should, or want to apply for money (SSHRC, NEH, etc.), this is a good time to start working on that.
 
 _By this point_:
-* Two chapters from your book accepted (in submission at least). This is important to show that at least part of your book project has been vetted by peer review.
+* Two chapters from your book accepted (in submission at least). One of these will be from your time as a graduate student or during the Interregnum; these essays count. Their purpose here is to show that at least part of your book project has been vetted by peer review. (NB: This will probably be the most you should publish from your first book. A rule of thumb is that presses will not want more than half the chapters to be published as articles.)
 
 #### Year 1:
 * Develop a plan for your next 1, 2, 3, and 6 years. This will include publication, research, and granting. Adjust this timeline to institutional needs and resources, any job changes you think you might need, etc. Keep the focus soft, especially as you get past the two-year mark.
 * Get adjusted to faculty life, develop a lifeworld in a new city, etc. (Only exceptional people get much done during their first year as a professor.)
 * Develop relationships with mentors outside your PhD program: senior faculty colleagues at your new institution, and in the field at large.
-* Research and writing on the “unfinished business” of your dissertation. Develop a plan for expansion and revision.
-* Present at two conferences. One or both of these must be new material for your book (i.e. the “unfinished business”).
+* Research and writing on the “[unfinished business](./on_proposals.md#plan-for-unfinished-business)” of your dissertation. Develop a plan for expansion and revision.
+* Present at two conferences. One or both of these must be new material for your book (i.e. the “[unfinished business](./on_proposals.md#plan-for-unfinished-business)”).
 * Stop calling it a dissertation and start calling it a book.
 * In the summer, revise one book chapter into an essay and submit it to a journal.
 
@@ -98,7 +99,7 @@ _By this point_:
 * A plan for developing your dissertation into a book.
 
 ### The interregnum
-A large majority of people find that they cannot step straight from their PhD program into a tenure-track job. You may wish to stay in the PhD program for an additional year, working on your “unfinished business” as an enrolled student, and dedicating your time to staying afloat and applying for jobs again. Taking sessional positions outside of U of T while remaining enrolled is not the worst plan. Postdocs are often good, but be careful of them, especially in the Canadian system, as they tend to encourage one-off projects, and ours is a book field, which means sustained years-long work on a single project; ensure that the one-off project for (say) a SSHRC-funded postdoc is in the service of the book project, and helps you maintain a coherent research trajectory. Either way, you must find some way to continue to add lines to your CV while you are here without getting too far along on a book, or publishing too much from your dissertation.
+A large majority of people find that they cannot step straight from their PhD program into a tenure-track job. You may wish to stay in the PhD program for an additional year, working on your “[unfinished business](./on_proposals.md#plan-for-unfinished-business)” as an enrolled student, and dedicating your time to staying afloat and applying for jobs again. Taking sessional positions outside of U of T while remaining enrolled is not the worst plan. Postdocs are often good, but be careful of them, especially in the Canadian system, as they tend to encourage one-off projects, and ours is a book field (even in Canada), which means sustained years-long work on a single project; ensure that any seeming one-off projects for (say) a SSHRC-funded postdoc are in the service of the book project, and maintaining a coherent research trajectory. Either way, you must find some way to continue to add lines to your CV while you are here without getting too far along on a book, or publishing too much from your dissertation.
 
 You should make a deal with yourself about how many times you will go on the job market in advance of going out the first time. It’s exhausting and time consuming and saps your emotional well-being. Develop a Plan B which you will prepare for in stages, each time putting more energy into plans to leave the academy. Good Plan Bs always, always require preparation. The earlier you start developing them, the better off you’ll be.
 
@@ -121,13 +122,13 @@ Your portfolio coming out of the PhD includes:
   - A job talk (normally, the best chapter of your dissertation that isn’t the one you submitted for publication).
   - A canned teaching demonstration.
 
-In addition to the above, you should be bringing with you a hefty portfolio of “unfinished business.” (In fact, if you take my advice on writing a proposal)
+In addition to the above, you should be bringing with you a hefty portfolio of “[unfinished business](./on_proposals.md#plan-for-unfinished-business).” (In fact, if you take my advice on [writing a proposal](./on-proposals.md), you should have built-in unfinished business.)
 
 #### Year 5
-* Apply for jobs (September through November, or January, or March—depending on how far you get). If necessary, apply for jobs on the “secondary” (non-tenure-track) market (March through July). See above for the set of materials you’ll likely have to generate to apply for jobs.
+* Apply for jobs (September through November, or January, or March—depending on how far you get). If necessary, apply for jobs on the “secondary” (non-tenure-track) market (March through July or even August). See above for the set of materials you’ll likely have to generate to apply for jobs.
 * Revise chapter 3.
-* Complete the last chapter of your dissertation; do not much worry about revising it.
-* Write an introduction to your dissertation. (Don’t worry too much about this—it will be the first of _many_ introductions you write to this project.)
+* Complete the last chapter of your dissertation; do not worry very much about revising it.
+* Write an introduction to your dissertation. (Also don’t worry very much about this—it will be the first of _many_ introductions you write to this project.)
 * Complete a final draft of your dissertation not later than the end of March. This will seem cruelly early; it is. The bureaucracy of finishing a dissertation is vast and slow. (Your external reader must receive the final dissertation at least 8 weeks before a defense.)
 * Defend your dissertation! (Plan on a defense date not later than the end of June.)
 
@@ -136,7 +137,7 @@ In addition to the above, you should be bringing with you a hefty portfolio of �
 * Revise your submitted first article and resubmit.
 * At the same time, complete two additional dissertation chapters. At slowest, write one during the year; one during the summer. The faster you do this, the better.
 * By April at the latest, you should have revised your first chapter and completed a solid draft of your second.
-* Once you have completed a second chapter, start strategizing with your supervisor about preparing for the job market. This conversation should take place absolutely not later than June of your 4th year (or the academic year before you go on the job market).
+* Once you have completed this solid draft of a second chapter, start strategizing with your supervisor about preparing for the job market. _This conversation should take place absolutely not later than June of your 4th year (and any academic year before you go on the job market)._
 * In consultation with your supervisor, revise one of your first two chapters for publication and submit it.
 
 _By now_:
@@ -148,14 +149,14 @@ _By now_:
 
 #### Year 3
 * Complete a dissertation prospectus. (First draft: September; approved: absolutely not later than the end of November.)
-* Apply for a summer course in summer of year 3, if you must.
+* Apply for a summer course in summer of year 3, if you wish.
 * Consult with your supervisor about fieldwork and funding it.
-* Start writing your first dissertation chapter (December [winter break] and on).
+* Start writing your first dissertation chapter (starting in December [winter break] and after).
 * Present work-in-progress from this dissertation chapter at SCMS (end of March).
-* Complete your first dissertation chapter, the earlier the better; end of July is realistic and gives your supervisor(y committee) enough time to read & respond before the beginning of the school year.
-* Any field research you must do should take place during this summer.
-* Teach your summer course.
-* Revise your best seminar paper for publication. Submit it by the end of April, so that you can use the summer for intensive work on your dissertation.
+* Complete your first dissertation chapter, the earlier the better; end of July is a hard deadline realistic and gives your supervisor(y committee) enough time to read & respond before the beginning of the school year.
+* Any (or at least most) field research you must do should take place during this summer.
+* Teach your summer course, if you are; note that field research may take priority over summer teaching.
+* Revise your best seminar paper for publication. Aim to submit it by the end of April, so that you can use the summer for intensive work on your dissertation.
 
 _By now_:
 * You have a supervisor and a supervisory committee.
@@ -167,7 +168,7 @@ _By now_:
 #### Year 2: The end of coursework, and exams
 * One term of coursework (September through December).
 * This proseminar!
-* Select a supervisor (September, or at the latest, October). (NB: The PhD handbook specifies this deadline is November 15. I believe you should do this much sooner. See the next point.)
+* Select a supervisor (September, or at the latest, October). (NB: The [PhD handbook](./phd_handbook_2018.pdf) specifies this deadline is November 15. I believe you should do this much sooner. See the next point.)
 * Declare your two special fields “by the end of the first week of December.” (The form will ask for a preface and a bibliography. It is not plausible to meet with a supervisor on November 15 and have your special fields hammered out, even in draft form, in three weeks.) Note that this declaration is preliminary; continue to work with your supervisor & committee to refine the lists through March.
 * Study for special field exams (December through June).
 * Take special field exams: May and/or June.
