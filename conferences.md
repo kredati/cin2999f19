@@ -12,6 +12,7 @@ The major scholarly organizations that host film and media scholars.
 * **ASAP**, the Association for the Study of the Arts of the Present.
 * **SLSA**, the Society for Literature, Science, and the Arts.
 * **MSA**, the Modernist Studies Association.
+* **SAS**, the Society for Animation Studies.
 
 ### Other annual conferences
 In addition to scholarly associations, journals, departments, and other organizations put on conferences related to film and media studies.
@@ -21,6 +22,11 @@ In addition to scholarly associations, journals, departments, and other organiza
 * **Film & History.**
 * **Film-Philosophy.** In Toronto in 2020.
 * **Spiral.** Hosted each year in Toronto.
+* **Domitor.**
+* **Women and the Silent Screen.**
+* **Orphan Film Symposium.**
+* **Visible Evidence.**
+* **Flaherty Film Seminar.**
 
 ### Grad student conferences
 A number of institutions have long-standing traditions of graduate student conferences, which vary their themes from year to year.
