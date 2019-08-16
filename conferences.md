@@ -27,6 +27,7 @@ In addition to scholarly associations, journals, departments, and other organiza
 * **Orphan Film Symposium.**
 * **Visible Evidence.**
 * **Flaherty Film Seminar.**
+* **Console-ing Passions.**
 
 ### Grad student conferences
 A number of institutions have long-standing traditions of graduate student conferences, which vary their themes from year to year.
