@@ -1,10 +1,16 @@
 # Cinema Studies PhD Proseminar
 #### CIN2999 F19: Research Seminar in Cinema Studies
 
+
+### Land acknowledgment
+We acknowledge this sacred land on which the University of Toronto operates. It has been a site of human activity for 15,000 years. This land is the territory of the Huron-Wendat and Petun First Nations, the Seneca, and most recently, the Mississaugas of the Credit River. The territory was the subject of the Dish with One Spoon Wampum Belt Covenant, an agreement between the Iroquois Confederacy and Confederacy of the Ojibwe and allied nations to peaceably share and care for the resources around the Great Lakes.
+
+Today, the meeting place of Toronto is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work in the community, on this territory.
+
 ### Administrativa
 * **Course meetings.** Tuesdays, 10am–noon, Innis College 223. Please note we will start at U of T time.
-* **Instructor.** Scott Richmond, Associate Professor of Cinema & Digital Media
-* **Office.** Innis 230E
+* **Instructor.** Scott Richmond, Associate Professor of Cinema & Digital Media.
+* **Office.** Innis 230E.
 * **Office hours.** Tuesdays, 1–3pm; sign up at https://calendly.com/s-richmond/officehours. Also: by appointment.
 * **Contact.** by email: s.richmond@utoronto.ca, or by Slack DM.
 
@@ -22,7 +28,7 @@ This is an impossible project for a single semester, and certainly you shouldn�
 ### Outcomes
 In this course, students will:
 * Select a supervisor if they have not yet done so.
-* Meet with their supervisor no fewer than three times.
+* Meet with their supervisor no fewer than once (but normatively twice).
 * Discuss major advising and program goals with their supervisor, including (but not limited to) exams, publishing, conferences, and possible dissertation projects.
 * Gain critical familiarity with all parts of academic life, including research (publishing, conferences, grants, writing), teaching, and service.
 * Encounter and discuss all major milestones of the academic career path up to tenure.
@@ -32,7 +38,7 @@ In this course, students will:
 * In the course of revising this paper, gain familiarity with one set of methods for understanding and revising academic writing.
 
 ### Coursework & marks
-This course is pass/fail. To gain a passing mark, students must complete, to my satisfaction, all assignments in the course by their stated deadline. In other words: almost all of this is process-based; do the things, trust the process, pass the course.
+This course is pass/fail. To gain a passing mark, students must complete, to my satisfaction, all assignments in the course by their stated deadline. In other words: almost all of this is process-based; do the things in good faith, trust the process, pass the course.
 
 Be aware that this iteration of the proseminar is substantially different from previous iterations, in that it also includes a certain amount of reading. Please do the reading carefully, but not exactingly; I would not ask you to do it if I didn’t think it important. By the same token, some of the reading is there to be a resource to you as you develop your practice and in later stages of the program. I will do my best to guide you in the kind of reading I expect.
 
@@ -64,11 +70,11 @@ Reading due:
 * Eric Hayot, _The Elements of Academic Style_, chs. 2 & 3
 * Alan Henry, “[Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955)”
 * Alan Henry, “[Productivity 101: A Primer to the Pomodoro Technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)”
-* [CSI PhD handbook](./phd_handbook_2018.pdf)
+* [CSI PhD handbook](./phd_handbook_2019.pdf)
 * [Reverse timeline](./reverse_timeline.md)
 
 In-class visits:
-* Brian Price to discuss departmentally available funding
+* Brian Price and Tony Pi to discuss departmentally available funding
 
 Homework due:
 * Select and upload a term paper from year 1 of the PhD to work with this term.
@@ -100,7 +106,9 @@ Topics covered:
 * What does a job ad look like
 * How to ignore the market until it’s worth worrying about
 * Getting your head straight about the next milestone: the exam
-* A prompt: work on exams with your supervisor
+* A prompt: if you have not already, approach a faculty member regarding supervision
+* Another prompt: if you already have a supervisor, email them about exams
+* What to talk about, and how to talk with a supervisor
 
 #### Week 4, October 1: Sharing your scholarship
 Reading due:
@@ -196,6 +204,9 @@ Topics covered:
 * How to revise a sentence
 * How to revise a paragraph
 * How to use theme & character to comment on students’ papers
+* A reminder: a draft of one of your exam lists + preface is due in four weeks. 
+
+##### No class November 5; it's reading week.
 
 #### Week 9, November 12: Problem & structure
 Reading due:
