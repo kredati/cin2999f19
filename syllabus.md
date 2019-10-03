@@ -138,7 +138,7 @@ Topics covered:
 
 #### Week 5, October 8: Forming young minds: pedagogy
 Reading due:
-* Jacques Rancière, from _The Ignorant Schoolmaster_ (or something else TBD: Eve Sedgwick, “Pedagogy of Buddhism”?)
+* Jacques Rancière, "[An Intellectual Adventure](https://cin2999f19.slack.com/files/UM11WBR8A/FP0KWJFRA/ranciere__an_intellectual_adventure__from_the_ignorant_schoolmaster.pdf)," from _The Ignorant Schoolmaster_
 * [CSI Undergraduate Course Bulletin](http://cinema.utoronto.ca/undergradcourses.html)
 * Sample CSI syllabi
 
