@@ -198,7 +198,7 @@ Homework due:
 * Select an essay for “journal club” in a few weeks
 
 In-class visit:
-* **Faculty visit** the third. A faculty member will circulate an essay or book chapter, to discuss the work & their process.
+* **Faculty visit**: Charlie Keil.
 
 Topics covered:
 * How to revise a sentence
@@ -234,7 +234,7 @@ Homework due:
 * Rewritten introduction.
 
 In-class visit:
-* **Faculty visit** the fifth. A faculty member will circulate an essay or book chapter, to discuss the work & their process.
+* **Faculty visit**: James Cahill.
 
 Topics covered:
 * What introductions do.
