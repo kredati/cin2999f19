@@ -217,7 +217,7 @@ Homework due:
 * Problem and structure études
 
 In-class visit:
-* **Faculty visit** the fourth. A faculty member will circulate an essay or book chapter, to discuss the work & their process.
+* **Faculty visit**: Brian Jacobson.
 
 Topics covered:
 * Arguments and what they do
