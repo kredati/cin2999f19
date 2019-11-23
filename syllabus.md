@@ -204,7 +204,7 @@ Topics covered:
 * How to revise a sentence
 * How to revise a paragraph
 * How to use theme & character to comment on students’ papers
-* A reminder: a draft of one of your exam lists + preface is due in four weeks. 
+* A reminder: a draft of one of your exam lists + preface is due in four weeks.
 
 ##### No class November 5; it's reading week.
 
@@ -241,7 +241,7 @@ Topics covered:
 * Peer review of rewritten introductions.
 * Teaching students introductions.
 
-#### Week 11, November 26: “Journals Club,” and next steps
+#### Week 11, November 26: “Journals Club,” abstracts, next steps
 Reading due:
 * “Journals club” essays
 * Bolker, _Writing Your Dissertation_, chs. 4 & 7
@@ -249,17 +249,18 @@ Reading due:
 * [On proposals](./on_proposals.md)
 
 Homework due:
-* Rough draft of one exam preface & list, in consultation with your supervisor.
 * Rough sketch of/elevator pitch for a dissertation project.
 * Continue work on revisions.
 
 #### Week 12, December 3: Applying and presenting
-No reading due, although do revisit Booth, “Communicating Evidence Visually”
+* No reading for proseminar; work on your papers & exam lists.
+
+Possible in-class visit:
+* Final, pending in-class visit: Alberto Zambenedetti (to be confirmed)
 
 Homework due:
-* Slide deck.
+* Rough draft of one exam preface & list, in consultation with your supervisor.
 * Conference proposal abstract.
-* Peer review of revision-in-progress papers.
 
 #### During finals period: a conference
 Mini-conference to be scheduled during finals period. _To be semi-public (CSI community invited) or not, according to consensus._
